@@ -65,7 +65,7 @@ me.say_hi()
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:your.nishanbhattar">
+  <a href="mailto:your.nishanbhatt">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nishan-bhattarai-8baa50287">
