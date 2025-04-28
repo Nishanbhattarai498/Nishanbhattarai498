@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=App+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=App+Developer;Computer+Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
@@ -27,7 +27,7 @@ me.say_hi()
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,flutter,dart,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,github,flutter,dart,linux,vscode" />
 </p>
 
 ## 📈 GitHub Stats
