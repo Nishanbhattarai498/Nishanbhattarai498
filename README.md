@@ -51,10 +51,10 @@ me.say_hi()
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:your.nishanbhattarai1234567@gmail.com">
+  <a href="mailto:your.nishanbhattar">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://https://linkedin.com/in/nishan-bhattarai-8baa50287">
+  <a href="https://www.linkedin.com/in/nishan-bhattarai-8baa50287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourhandle">
