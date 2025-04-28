@@ -51,7 +51,7 @@ me.say_hi()
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:your.email">
+  <a href="mailto:your.nishanbhattarai1234567@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
@@ -65,9 +65,9 @@ me.say_hi()
 ## ⚡ Fun Fact
 
 <!-- Add a fun fact about you -->
-"I once wrote a Python script that [interesting fact]!"
+"I once wrote a Python script that get lost!"
 
 ---
 
-⭐ From [Your Name](https://github.com/yourusername)
+⭐ From Nishan (https://github.com/Nishanbhattarai498)
 ```
