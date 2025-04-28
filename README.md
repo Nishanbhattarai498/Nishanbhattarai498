@@ -27,18 +27,18 @@ me.say_hi()
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,docker,aws,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,flutter,dart,linux,vscode" />
 </p>
 
 ## 📈 GitHub Stats
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishanbhattarai498&show_icons=true&theme=radical)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanbhattarai498&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nishanbhattarai498&theme=radical)
   
 </div>
 
