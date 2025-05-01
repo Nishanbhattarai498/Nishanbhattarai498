@@ -59,7 +59,7 @@ me.say_hi()
 ## 🌱 Current Projects
 
 - 🔥 [PYTHON-2025](https://github.com/Nishanbhattarai498/PYTHON-2025) - Modern Python learning repository
-- 🚀 [Supabase Project](https://github.com/Nishanbhattarai498/Supabase_proj) - Flutter app with Supabase backend
+- 🚀 [Blog_App](https://github.com/Nishanbhattarai498/blog_app) - Flutter app with Supabase backend
 - 🌟 [More Projects](https://github.com/Nishanbhattarai498?tab=repositories) - Explore my other works
 
 ## 📫 How to Reach Me
