@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Nishan Bhattarai!
+# 👋 Hello, I'm Nishan Bhattarai(App Developer)!
 
 <div align="center">
   
