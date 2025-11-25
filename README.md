@@ -1,96 +1,75 @@
- 👋 Hello, I'm Nishan Bhattarai (App Developer)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&width=435&lines=Flutter+App+Developer;Python+Automator;Tech+Enthusiast)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nishanbhattarai498&label=Profile+Views&color=8A2BE2&style=flat-square)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishanbhattarai498&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nishan Bhattarai"
-        self.role = "Flutter & Python Developer"
-        self.languages = ["Dart", "Python", "C", "C++"]
-        self.learning = ["AI", "Backend Systems"]
-        self.hobbies = ["Coding", "Gaming", "Reading"]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
-
-me = Developer()
-me.say_hi()
-````
-
----
-
-## 🔧 Technologies & Tools
+# 👋 Hi, I’m **Nishan Bhattarai**
+### 🚀 Flutter & React Native Developer | 💻 Mobile App Builder | 🔐 Backend Learner | 📚 Tech Explorer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,postgresql,linux,git,github,vscode" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 About Me
+I’m a passionate mobile app developer building smooth and scalable applications using **Flutter** and **React Native (Expo)**. I also work with **Node.js, Firebase, MongoDB, Neon DB, and REST APIs**.  
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nishanbhattarai498&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanbhattarai498&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Nishanbhattarai498&theme=radical&fire=DD472B&currStreakNum=DDDDDD&sideNums=DDDDDD&sideLabels=DDDDDD&dates=AAAAAA" alt="GitHub Streak" />
-
-</div>
+- 🔭 Currently working on: **Bookstore / BookWorm App** (React Native + Node.js + MongoDB)  
+- 🌱 Learning: **Advanced backend integration, API optimization, and full-stack mobile development**  
+- 🎯 Goal: Build production-ready cross-platform apps and strengthen backend skills  
+- ⚡ Fun fact: I break things just to fix them better 😄
 
 ---
 
-## 🌱 Current Projects
+## 🛠️ Tech Stack
 
-* 🔥 [PYTHON-2025](https://github.com/Nishanbhattarai498/PYTHON-2025) – Modern Python learning repository
-* 🚀 [Blog\_App](https://github.com/Nishanbhattarai498/blog_app) – Flutter app with Supabase backend
-* 🌟 [More Projects](https://github.com/Nishanbhattarai498?tab=repositories) – Explore all my work
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![NeonDB](https://img.shields.io/badge/NeonDB-000?style=for-the-badge&logo=postgresql)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📫 How to Reach Me
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="mailto:your.nishanbhatt">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/nishan-bhattarai-8baa50287">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nishanbhattarai&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanbhattarai&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbhattarai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 🚀 Featured Project
 
-> I once wrote a Python script that got lost in its own recursion!
-
----
-
-<div align="center">
-
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Nishanbhattarai498/Nishanbhattarai498?label=Last+Updated\&style=for-the-badge)](https://github.com/Nishanbhattarai498/Nishanbhattarai498/commits/main)
-
-</div>
-```
+### 📚 BookWorm / Bookstore App  
+A modern **React Native (Expo) + Node.js + MongoDB** app for managing books with user authentication, book listings, and pagination. Currently under active development.
 
 ---
 
+## 🌐 Connect With Me
+<p align="left">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</p>
+
+---
+
+## ⭐ If you like my work, consider giving my repositories a star!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LYBHgc2BVb3Wk/giphy.gif" width="180" />
+</p>
 
