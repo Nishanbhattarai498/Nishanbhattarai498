@@ -8,11 +8,11 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m a passionate mobile app developer building smooth and scalable applications using **Flutter** and **React Native (Expo)**. I also work with **Node.js, Firebase, MongoDB, Neon DB, and REST APIs**.  
+I’m a passionate mobile app developer building **smooth and scalable applications** using **Flutter** and **React Native (Expo)**. I also work with **Node.js, Firebase, MongoDB, Neon DB, and REST APIs**.  
 
 - 🔭 Currently working on: **Bookstore / BookWorm App** (React Native + Node.js + MongoDB)  
-- 🌱 Learning: **Advanced backend integration, API optimization, and full-stack mobile development**  
-- 🎯 Goal: Build production-ready cross-platform apps and strengthen backend skills  
+- 🌱 Learning: **Advanced backend integration & full-stack mobile development**  
+- 🎯 Goal: Build production-ready cross-platform apps  
 - ⚡ Fun fact: I break things just to fix them better 😄
 
 ---
@@ -38,15 +38,19 @@ I’m a passionate mobile app developer building smooth and scalable application
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nishanbhattarai&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanbhattarai&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanbhattarai&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanbhattarai&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbhattarai&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbhattarai&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  ![GitHub commit graph](https://activity-graph.herokuapp.com/graph?username=nishanbhattarai&theme=react-dark&hide_border=true)
 </p>
 
 ---
@@ -59,10 +63,10 @@ A modern **React Native (Expo) + Node.js + MongoDB** app for managing books with
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishan-bhattarai-8baa50287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -72,4 +76,3 @@ A modern **React Native (Expo) + Node.js + MongoDB** app for managing books with
 <p align="center">
   <img src="https://media.giphy.com/media/LYBHgc2BVb3Wk/giphy.gif" width="180" />
 </p>
-
