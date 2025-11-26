@@ -1,103 +1,78 @@
-<!-- PROFILE HEADER -->
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Nishan%20Bhattarai&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20|%20Flutter%20%26%20React%20Native&descAlignY=55&descAlign=50" />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Nishan%20Bhattarai&fontSize=72&animation=fadeIn&desc=Mobile%20App%20Developer%20•%20Flutter%20%26%20React%20Native" />
 
-### 🚀 Flutter & React Native Developer  
-### 🔥 Backend Learner | 📡 API Designer | 🧠 Tech Explorer  
+### 🚀 Flutter & React Native Developer · Backend Learner · UI obsessed
+
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👋 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" align="right"/>
 
-- 🔨 **Currently Building:** ShelfLife — *Near-Expiry Product Selling App*  
-- 📱 **Tech Loves:** Flutter • React Native • Expo • Clerk • NeonDB • PostgreSQL  
-- ⚙️ **Learning Backend:** Node.js • Express • API Security  
-- 📅 **Goal:** Publish my app on Google Play in 2 months  
-- 😄 **Fun Fact:** I break things to learn how to rebuild them cleaner.  
+I build smooth mobile experiences and ship backend APIs. Currently developing **ShelfLife** — an Expo + React Native app for near-expiry shop items.
+
+- 🔭 Currently building: **ShelfLife**  
+- 🛠 Stack: Flutter • React Native • Expo • Node.js • PostgreSQL • Clerk  
+- ⚡ Goal: Publish on Google Play & keep CI/CD clean
 
 <br clear="right"/>
 
 ---
 
-# 🧰 **Tech Skills**
+## 🧰 Tech Stack
 
-### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,java,nodejs,express,firebase,mongodb,postgres,html,css&perline=12" />
-
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,linux,figma,notion&perline=12" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,expo,nodejs,express,postgres,mongodb,git,vscode,figma&perline=12" />
 
 ---
 
-# 📊 **GitHub Stats**
+## 📊 Live GitHub Stats & Real-time Contribution Calendar
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishanbhattarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- GitHub-readme-stats (hosted on vercel - usually reliable) -->
+<img alt="Nishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nishanbhattarai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanbhattarai&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧪 **Most Used Languages**
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbhattarai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<!-- Streak (primary source) -->
+<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanbhattarai&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
----
-
-# 👾 **Hacker Vibes**
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="280" />
-
-</div>
-
----
-
-# 🏆 **GitHub Trophies**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishanbhattarai&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 🔥 **Contribution Graph**
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanbhattarai&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🌐 **Connect With Me**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nishan-bhattarai-8baa50287/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/nishanbhattarai">
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
+<!-- Contribution calendar (LOCAL CACHE / updated by GH Action) -->
 <br/>
+### 📈 Contribution Calendar (keeps up-to-date via GitHub Action)
+<img alt="contrib" src="./assets/contributions.svg" style="max-width:100%; box-shadow:0 10px 30px rgba(0,0,0,0.6); border-radius:8px;" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" />
+---
+
+## 🔥 Most used languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbhattarai&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanbhattarai&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishan-bhattarai-8baa50287/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishanbhattarai)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+</p>
+
+<!-- End -->
+
 
 
