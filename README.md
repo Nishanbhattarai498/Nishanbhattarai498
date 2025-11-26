@@ -41,7 +41,7 @@ Currently building **ShelfLife** — a near-expiry product sharing mobile app.
 ---
 
 ## 📈 Real-Time Contribution Calendar  
-*(Pulled from GitHub directly via GitHub Action — always works, never breaks)*
+
 
 <img src="./assets/contributions.svg" width="100%" />
 
