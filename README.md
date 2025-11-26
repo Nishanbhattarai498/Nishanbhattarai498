@@ -36,10 +36,10 @@ I build smooth mobile experiences and ship backend APIs. Currently developing **
 <div align="center">
 
 <!-- GitHub-readme-stats (hosted on vercel - usually reliable) -->
-<img alt="Nishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nishanbhattarai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+<img alt="Nishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nishanbhattarai498&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
 
 <!-- Streak (primary source) -->
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanbhattarai&theme=tokyonight&hide_border=true" width="48%" />
+<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishanbhattarai498&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -51,13 +51,13 @@ I build smooth mobile experiences and ship backend APIs. Currently developing **
 ---
 
 ## 🔥 Most used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbhattarai&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanbhattarai498&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanbhattarai&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishanbhattarai498&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
