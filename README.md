@@ -25,7 +25,8 @@ Building beautiful, scalable mobile applications with modern technologies.
 <div align="center">
 
 <!-- Replaced demolab streak with more reliable github-readme-streak-stats service -->
-![GitHub Streak](https://github-streak-counter.up.railway.app/?user=Nishanbhattarai498)
+![GitHub Streak](https://github-streak-counter.up.railway.app/badge.svg?username=Nishanbhattarai498)
+
 
 
 
