@@ -25,7 +25,8 @@ Building beautiful, scalable mobile applications with modern technologies.
 <div align="center">
 
 <!-- Replaced demolab streak with more reliable github-readme-streak-stats service -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nishanbhattarai498&theme=dark&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-streak-counter.up.railway.app/?user=Nishanbhattarai498)
+
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishanbhattarai498&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&hide_border=true)
